@@ -169,11 +169,10 @@ This project is for educational purposes only.
 
 ## 👤 Author
 
-Zaheen Siddiqui
-
+*Zaheen Siddiqui* - [Zaheen](https://github.com/Zaheen-Siddiqui)
 ## 🤝 Contributing
 
-**Prem Hanchate** - [Prem-Hanchate](https://github.com/Prem-Hanchate)
+*Prem Hanchate* - [Prem](https://github.com/Prem-Hanchate)
 ---
 
 **Disclaimer:** This tool is for educational and demonstration purposes only. Do not use in production environments or rely on it for actual security decisions.
