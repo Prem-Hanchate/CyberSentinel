@@ -173,8 +173,7 @@ Zaheen Siddiqui
 
 ## 🤝 Contributing
 
-This is a demonstration project and is not actively maintained for contributions.
-
+**Prem Hanchate** - [Prem-Hanchate](https://github.com/Prem-Hanchate)
 ---
 
 **Disclaimer:** This tool is for educational and demonstration purposes only. Do not use in production environments or rely on it for actual security decisions.
